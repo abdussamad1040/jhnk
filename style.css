@@ -1,0 +1,53 @@
+.valo{
+text-decoration: none;
+background-image: linear-gradient(rgb(0, 54, 170)  rgba(161, 115, 28, 0.815));
+padding: 20px 55px;
+color: brown;
+font-weight:800;
+border-radius: 4px;
+}
+.blue{
+    color: darkgreen;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left:  3%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.abc{
+    color: brown;
+}
+.half-width img{
+    width: 80%;
+}
+.recipes-item-area{
+    clear: both;
+    height: 500px;
+    padding-left: 5%;
+}
+.recipes-item{
+    box-shadow: 12px 12px 12px;
+    width: 30%;
+    padding:20px;
+    float: left;
+    margin-left: 5%;
+    background-color: rgb(221, 198, 182);
+    border-radius: 37px;
+}
+.recipes-item h3{
+    font-size: 30px;
+}
+.recipes-item img{
+    border-radius: 30px;
+    height: 260px;
+    width: 120%;
+}
+footer p{
+    text-align: center;
+}
